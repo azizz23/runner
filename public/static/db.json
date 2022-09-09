@@ -1,0 +1,361 @@
+{
+  "categores": [
+    {
+      "id": 1,
+      "name": "All",
+      "img": "https://i.ebayimg.com/images/g/mTcAAOSwPzVf4xc4/s-l200.webp"
+    },
+    {
+      "id": 2,
+      "name": "Asics",
+      "img": "https://i.ebayimg.com/images/g/ikgAAOSwWb5fkEGQ/s-l200.webp"
+    },{
+      "id": 3,
+      "name": "Adidas",
+      "img": "https://i.ebayimg.com/images/g/ikgAAOSwWb5fkEGQ/s-l200.webp"
+    },{
+      "id": 4,
+      "name": "Nike",
+      "img": "https://i.ebayimg.com/images/g/ikgAAOSwWb5fkEGQ/s-l200.webp"
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "categoreId": 2,
+      "name": "Asics Gel-Quantum 180",
+      "description": "The GEL-QUANTUM 180™ sneaker evolves the shoe´s lineage with technologies and styling cues from the ASICS archive.",
+      "img": "https://www.tradeinn.com/f/13865/138653685/asics-gel-quantum-180-lite-show-trainers.jpg",
+      "price": "399",
+      "oldPrice": "600",
+      "imgs": [
+       "https://www.tradeinn.com/f/13865/138653685/asics-gel-quantum-180-lite-show-trainers.jpg",
+       "https://www.tradeinn.com/f/13865/138653685_3/asics-gel-quantum-180-lite-show-trainers.jpg",
+       "https://www.tradeinn.com/f/13865/138653685_4/asics-gel-quantum-180-lite-show-trainers.jpg",
+       "https://www.tradeinn.com/f/13865/138653685_5/asics-gel-quantum-180-lite-show-trainers.jpg"
+        
+      ]
+    },
+    {
+      "id": 2,
+      "categoreId": 2,
+      "name": "Asics Gel-Pulse 13 Running Shoes",
+      "description": "Gel-Pulse 13 Running Shoes is a running shoe for Asics men with standard last for neutral tread. The design of this model belongs to the legendary Gel Pulse line that has added important advances.",
+      "img": "https://www.tradeinn.com/f/13813/138131827/asics-gel-pulse-13-running-shoes.jpg",
+      "price": "369",
+      "oldPrice": "499",
+      "imgs": [
+       " https://www.tradeinn.com/f/13813/138131827/asics-gel-pulse-13-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13813/138131827_4/asics-gel-pulse-13-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13813/138131827_5/asics-gel-pulse-13-running-shoes.jpg"
+        
+      ]
+    },
+    {
+      "id": 3,
+      "categoreId": 2,
+      "name": "Asics Gel-Kayano 29 Running Shoes",
+      "description": "The GEL-KAYANO™ 29 shoe creates a stable running experience and a more responsive feel underfoot.",
+      "img": "https://www.tradeinn.com/f/13901/139010395/asics-gel-kayano-29-running-shoes.jpg",
+      "price": "649",
+      "oldPrice": "800",
+      "imgs": [
+       "https://www.tradeinn.com/f/13901/139010395/asics-gel-kayano-29-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13901/139010395_4/asics-gel-kayano-29-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13901/139010395_6/asics-gel-kayano-29-running-shoes.jpg"
+        
+      ]
+    },
+    {
+      "id": 4,
+      "categoreId": 2,
+      "name": "Asics GlideRide 2 Running Shoes",
+      "description": "The GEL-KAYANO™ 29 shoe creates a stable running experience and a more responsive feel underfoot.",
+      "img": "https://www.tradeinn.com/f/13790/137909863/asics-glideride-2-running-shoes.jpg",
+      "price": "450",
+      "oldPrice": "580",
+      "imgs": [
+       "https://www.tradeinn.com/f/13790/137909863_4/asics-glideride-2-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13790/137909863_5/asics-glideride-2-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13790/137909863_6/asics-glideride-2-running-shoes.jpg"
+        
+      ]
+    },
+    {
+      "id": 5,
+      "categoreId": 2,
+      "name": "Asics GT-2000 10",
+      "description": "The GT-2000™ 10 running shoe is specially designed to provide runners with lasting comfort and support for the full duration of their running workout.",
+      "img": "https://www.tradeinn.com/f/13901/139010720/asics-gt-2000-10-running-shoes.jpg",
+      "price": "540",
+      "oldPrice": "700",
+      "imgs": [
+       "https://www.tradeinn.com/f/13901/139010720/asics-gt-2000-10-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13901/139010720_4/asics-gt-2000-10-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13901/139010720_5/asics-gt-2000-10-running-shoes.jpg"
+        
+      ]
+    },
+    {
+      "id": 22,
+      "categoreId": 2,
+      "name": "Asics Gel-Cumulus 23",
+      "description": "Gel Cumulus 23 Running Shoes is a Asics running shoe for men that will help you travel long distances relying on the best technology.",
+      "img": "https://www.tradeinn.com/f/13790/137909860/asics-gel-cumulus-23-running-shoes.jpg",
+      "price": "399",
+      "oldPrice": "",
+      "imgs": [
+       "https://www.tradeinn.com/f/13790/137909860/asics-gel-cumulus-23-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13790/137909860_3/asics-gel-cumulus-23-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13790/137909860_7/asics-gel-cumulus-23-running-shoes.jpg"
+        
+      ]
+    },
+    {
+      "id": 6,
+      "categoreId": 2,
+      "name": "Asics Gel-Venture 6 Trainers",
+      "description": "Gel-Venture 6 Trainers is a Asics running shoe that will help you comfortably walk the trails. The height of the shaft in this model is low to allow you greater movement capacity of your ankles.",
+      "img": "https://www.tradeinn.com/f/13865/138653808/asics-gel-venture-6-trainers.jpg",
+      "price": "269",
+      "oldPrice": "",
+      "imgs": [
+       "https://www.tradeinn.com/f/13865/138653808/asics-gel-venture-6-trainers.jpg",
+       "https://www.tradeinn.com/f/13865/138653808_3/asics-gel-venture-6-trainers.jpg",
+       "https://www.tradeinn.com/f/13865/138653808_4/asics-gel-venture-6-trainers.jpg"
+        
+      ]
+    },
+    {
+      "id": 7,
+      "categoreId": 2,
+      "name": "Asics Gel-Quantum 90 Trainers",
+      "description": "",
+      "img": "https://www.tradeinn.com/f/13813/138131788/asics-gel-quantum-90-trainers.jpg",
+      "price": "289",
+      "oldPrice": "",
+      "imgs": [
+       "https://www.tradeinn.com/f/13813/138131788/asics-gel-quantum-90-trainers.jpg",
+       "https://www.tradeinn.com/f/13813/138131788_3/asics-gel-quantum-90-trainers.jpg",
+       "https://www.tradeinn.com/f/13813/138131788_4/asics-gel-quantum-90-trainers.jpg"
+        
+      ]
+    },
+    {
+      "id": 8,
+      "categoreId": 3,
+      "name": "adidas Fluidflow 2.0",
+      "description": "What do an evening run through the city and a Saturday grocery shopping trip have in common? The absolute comfort brought by the adidas Fluidflow 2.0 training shoes.",
+      "img": "https://www.tradeinn.com/f/13789/137892014/adidas-fluidflow-2.0-running-shoes.jpg",
+      "price": "259",
+      "oldPrice": "",
+      "imgs": [
+       "https://www.tradeinn.com/f/13789/137892014/adidas-fluidflow-2.0-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13789/137892014_4/adidas-fluidflow-2.0-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13789/137892014_3/adidas-fluidflow-2.0-running-shoes.jpg"
+        
+      ]
+    },
+    {
+      "id": 9,
+      "categoreId": 3,
+      "name": "adidas Ultraboost 21",
+      "description": "",
+      "img": "https://www.tradeinn.com/f/13810/138103778/adidas-ultraboost-21-c.rdy-running-shoes.jpg",
+      "price": "419",
+      "oldPrice": "",
+      "imgs": [
+       "https://www.tradeinn.com/f/13810/138103778/adidas-ultraboost-21-c.rdy-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13810/138103778_2/adidas-ultraboost-21-c.rdy-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13810/138103778_3/adidas-ultraboost-21-c.rdy-running-shoes.jpg"
+      
+      ]
+    },
+    {
+      "id": 15,
+      "categoreId": 3,
+      "name": "adidas Ultraboost 22",
+      "description": "",
+      "img": "https://www.tradeinn.com/f/13842/138429803/adidas-ultraboost-22-running-shoes.jpg",
+      "price": "499",
+      "oldPrice": "",
+      "imgs": [
+       "https://www.tradeinn.com/f/13842/138429803/adidas-ultraboost-22-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13842/138429803_3/adidas-ultraboost-22-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13842/138429803_5/adidas-ultraboost-22-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13842/138429803_4/adidas-ultraboost-22-running-shoes.jpg"
+      
+      ]
+    },
+    {
+      "id": 9,
+      "categoreId": 3,
+      "name": "adidas Runfalcon 2.0",
+      "description": "",
+      "img": "https://www.tradeinn.com/f/13810/138103950/adidas-runfalcon-2.0-running-shoes.jpg",
+      "price": "189",
+      "oldPrice": "",
+      "imgs": [
+       "https://www.tradeinn.com/f/13810/138103950/adidas-runfalcon-2.0-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13810/138103950_3/adidas-runfalcon-2.0-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13810/138103950_4/adidas-runfalcon-2.0-running-shoes.jpg"
+      
+      ]
+    },
+    {
+      "id": 10,
+      "categoreId": 3,
+      "name": "adidas Response Super 2.0",
+      "description": "",
+      "img": "https://www.tradeinn.com/f/13810/138103947/adidas-response-super-2.0-running-shoes.jpg",
+      "price": "269",
+      "oldPrice": "",
+      "imgs": [
+       "https://www.tradeinn.com/f/13810/138103947/adidas-response-super-2.0-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13810/138103947_4/adidas-response-super-2.0-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13810/138103947_5/adidas-response-super-2.0-running-shoes.jpg"
+      
+      ]
+    },
+    {
+      "id": 11,
+      "categoreId": 3,
+      "name": "adidas Response Super 2.0",
+      "description": "",
+      "img": "https://www.tradeinn.com/f/13810/138104692/adidas-response-super-2.0-running-shoes.jpg",
+      "price": "259",
+      "oldPrice": "",
+      "imgs": [
+       "https://www.tradeinn.com/f/13810/138104692/adidas-response-super-2.0-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13810/138104692_3/adidas-response-super-2.0-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13810/138104692_4/adidas-response-super-2.0-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13810/138104692_5/adidas-response-super-2.0-running-shoes.jpg"
+      
+      ]
+    },
+    {
+      "id": 13,
+      "categoreId": 3,
+      "name": "adidas Solar Glide 4 Goretex",
+      "description": "",
+      "img": "https://www.tradeinn.com/f/13810/138104835/adidas-solar-glide-4-goretex-running-shoes.jpg",
+      "price": "359",
+      "oldPrice": "",
+      "imgs": [
+       "https://www.tradeinn.com/f/13810/138104835/adidas-solar-glide-4-goretex-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13810/138104835_3/adidas-solar-glide-4-goretex-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13810/138104835_4/adidas-solar-glide-4-goretex-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13810/138104835_2/adidas-solar-glide-4-goretex-running-shoes.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "categoreId": 4,
+      "name": "Nike Free Run 5.0",
+      "description": "it combines the flexibility you love with a secure design that will help keep you close to the ground.",
+      "img": "https://www.tradeinn.com/f/13834/138345854/nike-free-run-5.0-running-shoes.jpg",
+      "price": "339",
+      "oldPrice": "",
+      "imgs": [
+       "https://www.tradeinn.com/f/13834/138345854/nike-free-run-5.0-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13834/138345854_3/nike-free-run-5.0-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13834/138345854_4/nike-free-run-5.0-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13834/138345854_6/nike-free-run-5.0-running-shoes.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "categoreId": 4,
+      "name": "Nike Winflo 8",
+      "description": "Make fitness a habit with the Nike Winflo 8 running shoes. The eighth edition of the swoosh brand´s venerable sneaker line blends style, performance, and comfort to bring you a truly unique product.",
+      "img": "https://www.tradeinn.com/f/13825/138254790/nike-winflo-8-running-shoes.jpg",
+      "price": "319",
+      "oldPrice": "400",
+      "imgs": [
+       "https://www.tradeinn.com/f/13825/138254790/nike-winflo-8-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13825/138254790_3/nike-winflo-8-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13825/138254790_4/nike-winflo-8-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13825/138254790_6/nike-winflo-8-running-shoes.jpg"
+      ]
+    }
+    ,
+    {
+      "id": 18,
+      "categoreId": 4,
+      "name": "Nike Winflo 9",
+      "description": "Fast Enough For Your Everyday Runs, Light Enough To Keep You In The Flow. The Nike Air Winflo 9 Has A Secure Fit That Keeps Your Foot In Place As The Miles Go By.",
+      "img": "https://www.tradeinn.com/f/13855/138551991/nike-air-winflo-9-running-shoes.jpg",
+      "price": "319",
+      "oldPrice": "400",
+      "imgs": [
+       "https://www.tradeinn.com/f/13855/138551991/nike-air-winflo-9-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13855/138551994/nike-air-winflo-9-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13855/138551988/nike-air-winflo-9-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13855/138551991_4/nike-air-winflo-9-running-shoes.jpg"
+      ]
+    },
+    {
+      "id": 19,
+      "categoreId": 4,
+      "name": "Nike Winflo 8",
+      "description": "Make fitness a habit with the Nike Winflo 8 running shoes. The eighth edition of the swoosh brand´s venerable sneaker line blends style, performance, and comfort to bring you a truly unique product.",
+      "img": "https://www.tradeinn.com/f/13803/138033143/nike-winflo-8-running-shoes.jpg",
+      "price": "319",
+      "oldPrice": "400",
+      "imgs": [
+       "https://www.tradeinn.com/f/13803/138033143/nike-winflo-8-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13803/138033143_3/nike-winflo-8-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13803/138033143_4/nike-winflo-8-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13803/138033143_6/nike-winflo-8-running-shoes.jpg"
+      ]
+    }
+    ,
+    {
+      "id": 20,
+      "categoreId": 4,
+      "name": "Nike Air Zoom Structure 24",
+      "description": "Make fitness a habit with the Nike Winflo 8 running shoes. The eighth edition of the swoosh brand´s venerable sneaker line blends style, performance, and comfort to bring you a truly unique product.",
+      "img": "https://www.tradeinn.com/f/13825/138250969/nike-air-zoom-structure-24-running-shoes.jpg",
+      "price": "379",
+      "oldPrice": "",
+      "imgs": [
+       "https://www.tradeinn.com/f/13825/138250969/nike-air-zoom-structure-24-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13825/138250969_3/nike-air-zoom-structure-24-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13825/138250969_4/nike-air-zoom-structure-24-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13825/138250969_6/nike-air-zoom-structure-24-running-shoes.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "categoreId": 4,
+      "name": "Nike Air Zoom Pegasus 39",
+      "description": "Make fitness a habit with the Nike Winflo 8 running shoes. The eighth edition of the swoosh brand´s venerable sneaker line blends style, performance, and comfort to bring you a truly unique product.",
+      "img": "https://www.tradeinn.com/f/13883/138838893/nike-air-zoom-pegasus-39-running-shoes.jpg",
+      "price": "379",
+      "oldPrice": "",
+      "imgs": [
+       "https://www.tradeinn.com/f/13883/138838893/nike-air-zoom-pegasus-39-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13883/138838893_3/nike-air-zoom-pegasus-39-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13883/138838893_4/nike-air-zoom-pegasus-39-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13883/138838893_6/nike-air-zoom-pegasus-39-running-shoes.jpg"
+      ]
+    },
+    {
+      "id": 21,
+      "categoreId": 4,
+      "name": "Nike Flex Experience Run 11 NN",
+      "description": "Make fitness a habit with the Nike Winflo 8 running shoes. The eighth edition of the swoosh brand´s venerable sneaker line blends style, performance, and comfort to bring you a truly unique product.",
+      "img": "https://www.tradeinn.com/f/13855/138552113/nike-flex-experience-run-11-nn-running-shoes.jpg",
+      "price": "239",
+      "oldPrice": "",
+      "imgs": [
+       "https://www.tradeinn.com/f/13855/138552113/nike-flex-experience-run-11-nn-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13855/138552113_2/nike-flex-experience-run-11-nn-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13855/138552113_3/nike-flex-experience-run-11-nn-running-shoes.jpg"
+      ]
+    }
+    
+  
+
+  ]
+}
