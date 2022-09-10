@@ -79,9 +79,9 @@ const Product = ({ products }: any) => {
                 <SliceText count={250} text={product.description} />
               </div>
               <div className="price d-flex align-items-center">
-                <h3 className="me-2">₪{product.price}</h3>
+                <h3 className="me-2">${product.price}</h3>
                 {product.oldPrice && (
-                  <s className="text-muted">₪{product.oldPrice}</s>
+                  <s className="text-muted">${product.oldPrice}</s>
                 )}
               </div>
               <div

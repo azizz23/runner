@@ -6,6 +6,11 @@
       "img": "https://i.ebayimg.com/images/g/mTcAAOSwPzVf4xc4/s-l200.webp"
     },
     {
+      "id": 4,
+      "name": "Nike",
+      "img": "/static/category/nike.jpg"
+    },
+    {
       "id": 2,
       "name": "Asics",
       "img": "/static/category/asics.png"
@@ -13,10 +18,6 @@
       "id": 3,
       "name": "Adidas",
       "img": "/static/category/adidas.png"
-    },{
-      "id": 4,
-      "name": "Nike",
-      "img": "https://i.ebayimg.com/images/g/ikgAAOSwWb5fkEGQ/s-l200.webp"
     }
   ],
   "product": [
