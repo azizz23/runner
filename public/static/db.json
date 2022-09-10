@@ -360,6 +360,21 @@
     }
     ,
     {
+      "id": 26,
+      "categoreId": 4,
+      "name": "Nike Air Zoom Terra Kiger 7 Trail",
+      "description": "Faster and lighter than ever, the Nike Air Zoom Terra Kiger 7 trail running shoes represent a new milestone for the swoosh brand.",
+      "img": "https://www.tradeinn.com/f/13829/138297779/nike-air-zoom-terra-kiger-7-trail-running-shoes.jpg",
+      "price": "129",
+      "oldPrice": "",
+      "imgs": [
+       "https://www.tradeinn.com/f/13829/138297779/nike-air-zoom-terra-kiger-7-trail-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13829/138297779_3/nike-air-zoom-terra-kiger-7-trail-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13829/138297779_6/nike-air-zoom-terra-kiger-7-trail-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13829/138297779_5/nike-air-zoom-terra-kiger-7-trail-running-shoes.jpg"
+      ]
+    },
+    {
       "id": 20,
       "categoreId": 4,
       "name": "Nike Air Zoom Structure 24",
@@ -403,6 +418,9 @@
        "https://www.tradeinn.com/f/13855/138552113_3/nike-flex-experience-run-11-nn-running-shoes.jpg"
       ]
     }
+    
+    
+  
     
   
 
