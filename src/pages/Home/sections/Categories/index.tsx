@@ -59,10 +59,10 @@ const Categories = (props: Props) => {
                         style={{ textDecoration: "line-through" }}
                         className="text-muted me-2"
                       >
-                        ₪{product.oldPrice}
+                        ${product.oldPrice}
                       </span>
                     )}
-                    <b>₪{product.price}</b>
+                    <b>${product.price}</b>
                   </p>
                   <div className="btns mt-4 flex-between conatiner">
                     <Link to={`/product/${product.id}`}>

@@ -51,12 +51,12 @@ const Modal = (props: Props) => {
                 </h2>
                 <h4 className="h4-responsive">
                   <span style={{ color: "#4caf50" }}>
-                    <strong className="me-2">₪{product.price}</strong>
+                    <strong className="me-2">${product.price}</strong>
                   </span>
                   {product.oldPrice && (
                     <span className="grey-text">
                       <span className="small text-muted">
-                        <s>₪{product.oldPrice}</s>
+                        <s>${product.oldPrice}</s>
                       </span>
                     </span>
                   )}
