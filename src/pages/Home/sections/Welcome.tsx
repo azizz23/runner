@@ -37,6 +37,9 @@ const Welcome = (props: Props) => {
           <p className="text-light fs-3">
             Buy your next shoes with crypto.
           </p>
+          <p className="text-light fs-3">
+            Prices includes shipping!
+          </p>
           <button
             onClick={() =>
               scrollBy(window, {
