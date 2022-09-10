@@ -81,7 +81,7 @@ const Modal = (props: Props) => {
                         onClick={() => dispatch(closeModal())}
                         className="ms-3 btn btn-success"
                       >
-                        Order Now
+                        View
                       </button>
                     </Link>
                   </div>

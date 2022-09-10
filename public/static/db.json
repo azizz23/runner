@@ -8,11 +8,11 @@
     {
       "id": 2,
       "name": "Asics",
-      "img": "https://i.ebayimg.com/images/g/ikgAAOSwWb5fkEGQ/s-l200.webp"
+      "img": "/static/category/asics.png"
     },{
       "id": 3,
       "name": "Adidas",
-      "img": "https://i.ebayimg.com/images/g/ikgAAOSwWb5fkEGQ/s-l200.webp"
+      "img": "/static/category/adidas.png"
     },{
       "id": 4,
       "name": "Nike",
