@@ -68,6 +68,22 @@
       ]
     },
     {
+      "id": 24,
+      "categoreId": 3,
+      "name": "adidas Ultraboost 22",
+      "description": "",
+      "img": "https://www.tradeinn.com/f/13842/138429794/adidas-ultraboost-22-running-shoes.jpg",
+      "price": "165",
+      "oldPrice": "",
+      "imgs": [
+       "https://www.tradeinn.com/f/13842/138429794/adidas-ultraboost-22-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13842/138429794_3/adidas-ultraboost-22-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13842/138429794_4/adidas-ultraboost-22-running-shoes.jpg",
+       "https://www.tradeinn.com/f/13842/138429794_6/adidas-ultraboost-22-running-shoes.jpg"
+      
+      ]
+    },
+    {
       "id": 9,
       "categoreId": 3,
       "name": "adidas Runfalcon 2.0",
@@ -256,12 +272,27 @@
       "name": "Asics Gel-Quantum 90 Trainers",
       "description": "",
       "img": "https://www.tradeinn.com/f/13813/138131788/asics-gel-quantum-90-trainers.jpg",
-      "price": "289",
+      "price": "95",
       "oldPrice": "",
       "imgs": [
        "https://www.tradeinn.com/f/13813/138131788/asics-gel-quantum-90-trainers.jpg",
        "https://www.tradeinn.com/f/13813/138131788_3/asics-gel-quantum-90-trainers.jpg",
        "https://www.tradeinn.com/f/13813/138131788_4/asics-gel-quantum-90-trainers.jpg"
+        
+      ]
+    },
+    {
+      "id": 25,
+      "categoreId": 2,
+      "name": "Asics Gel-Quantum 90 Trainers",
+      "description": "",
+      "img": "https://www.tradeinn.com/f/13813/138131791/asics-gel-quantum-90-trainers.jpg",
+      "price": "85",
+      "oldPrice": "",
+      "imgs": [
+       "https://www.tradeinn.com/f/13813/138131791/asics-gel-quantum-90-trainers.jpg",
+       "https://www.tradeinn.com/f/13813/138131791_3/asics-gel-quantum-90-trainers.jpg",
+       "https://www.tradeinn.com/f/13813/138131791_5/asics-gel-quantum-90-trainers.jpg"
         
       ]
     },
