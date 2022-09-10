@@ -33,7 +33,7 @@ const Header = ({ scroll }: { scroll: number }) => {
             }}
           >
   
-              <h5 className="ms-2 text-dark">Aziz-Nargila</h5>
+              <h5 className="ms-2 text-dark">Crypto-Runner</h5>
             
           </Link>
         </div>

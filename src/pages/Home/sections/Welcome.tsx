@@ -33,9 +33,9 @@ const Welcome = (props: Props) => {
         <main
           className={`text-center pb-5 min-h-95vh flex-center flex-column ${style.mainSec}`}
         >
-          <h2 className="title text-light display-1 fw-bold">Aziz-Nargila</h2>
+          <h2 className="title text-light display-1 fw-bold">Crypto-Runner</h2>
           <p className="text-light fs-3">
-            Shopping is easier and faster with Aziz.
+            Buy your next shoes using crypto.
           </p>
           <button
             onClick={() =>
