@@ -32,17 +32,9 @@ const Header = ({ scroll }: { scroll: number }) => {
               display: "inline-block",
             }}
           >
-            {!active ? (
-              <img
-                className="cu-pointer"
-                width="150"
-                
-                src="/static/logo2.png"
-                alt="logo"
-              />
-            ) : (
+  
               <h5 className="ms-2 text-dark">Aziz-Nargila</h5>
-            )}
+            
           </Link>
         </div>
       </div>
