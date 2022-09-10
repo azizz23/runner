@@ -35,7 +35,7 @@ const Welcome = (props: Props) => {
         >
           <h2 className="title text-light display-1 fw-bold">Crypto-Runner</h2>
           <p className="text-light fs-3">
-            Buy your next shoes using crypto.
+            Buy your next shoes with crypto.
           </p>
           <button
             onClick={() =>
