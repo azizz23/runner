@@ -11,7 +11,9 @@ type Props = {
 
 const imgs: string[] = [
 
+  
   "https://cache.tradeinn.com/images/banners-home/adidas4dfwd.jpg",
+  "https://wallpapercave.com/wp/wp3734520.jpg",
 ];
 
 const Welcome = (props: Props) => {
