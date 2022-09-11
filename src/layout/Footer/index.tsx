@@ -5,7 +5,7 @@ const socialAcc = [
   // Instagram
   { link: keys.instagramUrl, logo: "bi bi-instagram" },
 
-  // Linkedin
+  // whatsapp
   { link: `https://wa.me/${keys.whatsapp}`, logo: "bi bi-whatsapp" },
 ];
 
