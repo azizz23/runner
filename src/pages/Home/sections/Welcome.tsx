@@ -13,8 +13,9 @@ const imgs: string[] = [
 
   
   "https://cache.tradeinn.com/images/banners-home/adidas4dfwd.jpg",
-  "https://wallpapercave.com/wp/wp3734520.jpg",
   "https://media.istockphoto.com/photos/marathon-running-race-picture-id958446232?b=1&k=20&m=958446232&s=170667a&w=0&h=Sm7zg7cD9G6pL1UaxwTClTJV7AEoqufT1w98FwPYJh0=",
+  "https://wallpapercave.com/wp/wp3734520.jpg",
+  
 ];
 
 const Welcome = (props: Props) => {
