@@ -100,6 +100,48 @@ const Product = ({ products }: any) => {
                   </button>
                 </Link>
               </div>
+              <div>
+              <img
+                              draggable={false}
+                              style={{
+                                objectFit: "contain",
+                                padding:"5px",
+                              }}
+                              alt="btc"
+                              src={"https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@1a63530be6e374711a8554f31b17e4cb92c25fa5/32/color/btc.png"}
+                              
+                            />
+                            <img
+                              draggable={false}
+                              style={{
+                                objectFit: "contain",
+                                padding:"5px",
+                              }}
+                              alt="eth"
+                              src={"https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@1a63530be6e374711a8554f31b17e4cb92c25fa5/32/color/eth.png"}
+                              
+                            />
+                            <img
+                              draggable={false}
+                              style={{
+                                objectFit: "contain",
+                                padding:"10px",
+                              }}
+                              alt="ltc"
+                              src={"https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@1a63530be6e374711a8554f31b17e4cb92c25fa5/32/color/ltc.png"}
+                              
+                            />
+                            <img
+                              draggable={false}
+                              style={{
+                                objectFit: "contain",
+                                padding:"5px",
+                              }}
+                              alt="usdt"
+                              src={"https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@1a63530be6e374711a8554f31b17e4cb92c25fa5/32/color/usdt.png"}
+                              
+                            />
+              </div>
             </div>
           </div>
         </div>
