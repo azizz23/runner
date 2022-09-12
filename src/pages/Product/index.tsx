@@ -84,22 +84,6 @@ const Product = ({ products }: any) => {
                   <s className="text-muted">${product.oldPrice}</s>
                 )}
               </div>
-              <div
-                className={`${style.buttons} d-flex justify-content-center pb-5 pb-md-0 justify-content-md-start flex-row mt-5 gap-3`}
-              >
-                <button
-                  onClick={order}
-                  className="btn btn-success d-flex flex-center gap-2"
-                >
-                  <i className="bi bi-whatsapp fs-5" /> order via whatsapp
-                </button>
-
-                <Link to="/" className="text-decoration-none">
-                  <button className="btn btn-outline-dark flex-center d-flex gap-2 fw-bold">
-                    <i className="bi bi-browser-safari fs-5" /> Browse products
-                  </button>
-                </Link>
-              </div>
               <div>
               <img
                               draggable={false}
@@ -142,6 +126,23 @@ const Product = ({ products }: any) => {
                               
                             />
               </div>
+              <div
+                className={`${style.buttons} d-flex justify-content-center pb-5 pb-md-0 justify-content-md-start flex-row mt-5 gap-3`}
+              >
+                <button
+                  onClick={order}
+                  className="btn btn-success d-flex flex-center gap-2"
+                >
+                  <i className="bi bi-whatsapp fs-5" /> order via whatsapp
+                </button>
+
+                <Link to="/" className="text-decoration-none">
+                  <button className="btn btn-outline-dark flex-center d-flex gap-2 fw-bold">
+                    <i className="bi bi-browser-safari fs-5" /> Browse products
+                  </button>
+                </Link>
+              </div>
+              
             </div>
           </div>
         </div>
