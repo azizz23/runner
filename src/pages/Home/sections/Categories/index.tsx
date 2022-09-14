@@ -35,7 +35,7 @@ const Categories = (props: Props) => {
             <div
               className={`${
                 activeNavigate === product.categoreId || activeNavigate === 1
-                  ? "col-md-4 col-lg-4 col-sm-6"
+                  ? "col-md-4 col-lg-3 col-sm-6"
                   : "d-none"
               }`}
               key={idx}
